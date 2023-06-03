@@ -1,0 +1,14 @@
+@media(max-width:768px) {
+    #wrapperUndangan .separatorQuotes {
+        display: none;
+    }
+    #wrapperUndangan .scrollableUndangan {
+        width: 100% !important;
+    }
+    #scroll-down {
+        display: none;
+    }
+    #button-open {
+        display: block;
+    }
+}

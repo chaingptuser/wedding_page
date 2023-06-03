@@ -1,0 +1,8 @@
+/* @media(max-width:768px){
+    .bottom_style#button-open{
+        position: absolute;
+        bottom: 130px;
+        right: 50%;
+        transform: translate(50%,-50%);
+    }
+} */
